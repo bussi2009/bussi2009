@@ -2,7 +2,7 @@
 - 👀 I’m interested in Game development 
 - 🌱 I’m currently learning Unity
 - 💞️ I’m looking to collaborate on Roblox Studio
-- 📫 How to reach me feresdamak@gmail.com / DM bussi.0 on discord
+- 📫 How to reach me dm bussi.0 on discord
 - 😄 Pronouns: male
 - ⚡ Fun fact: Error 404 not found 
 
