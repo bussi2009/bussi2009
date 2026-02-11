@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Godot/python projects
 - 📫 How to reach me dm bussi.0 on discord
 - 😄 Pronouns: male
-- ⚡ Fun fact: no fun
+- ⚡ Fun fact: no fact
 
 <!---
 bussi2009/bussi2009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
